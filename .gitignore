@@ -1,0 +1,13 @@
+.venv*/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.local/
+.env
+.env.*
+!.env.example
+configuration/deployment.json
+configuration/teams-transcript-organizers.json
+*.zip
+*.pyc
+teams-settings-baseline.json

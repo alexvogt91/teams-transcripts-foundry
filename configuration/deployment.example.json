@@ -1,0 +1,16 @@
+{
+  "subscriptionId": "66666666-6666-4666-8666-666666666666",
+  "resourceGroup": "rg-teams-transcripts-sample",
+  "location": "swedencentral",
+  "organizersFile": "configuration/teams-transcript-organizers.json",
+  "chatModelName": "gpt-6-luna",
+  "chatModelVersion": "choose-an-available-version",
+  "chatDeploymentName": "chat",
+  "chatModelSku": "GlobalStandard",
+  "chatModelCapacity": 10,
+  "embeddingModelVersion": "1",
+  "embeddingModelSku": "GlobalStandard",
+  "embeddingModelCapacity": 10,
+  "enableFreeTier": false,
+  "alertEmail": ""
+}
